@@ -16,6 +16,12 @@ Um projeto educacional para facilitar o controle de caminhões de uma transporta
 4. Execute o comando: python Main.py;
 5. Utilize o menu para cadastrar um usuário, entrar e gerenciar os caminhões
 
+## O que eu fiz
+
+- Implementei um menu para cadastro de usuários, acesso ao sistema e gerenciamento dos caminhões.
+- Utilizei listas para armazenar os dados durante a execução do programa.
+- Organizei o código em funções, aplicando conceitos de programação estruturada.
+
 ## Status
 
 Projeto concluído.
