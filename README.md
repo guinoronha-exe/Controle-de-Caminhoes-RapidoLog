@@ -3,10 +3,10 @@ Um projeto educacional para facilitar o controle de caminhões de uma transporta
 
 ## Tecnologias
 
-Python 3
-Programação estruturada
-Listas e funções
-Interface por linha de comando.
+- Python 3
+- Programação estruturada
+- Listas e funções
+- Interface por linha de comando.
 
 ## Como rodar
 
